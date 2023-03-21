@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+}
+#input-el {
+    height: 20px;
+    width: 100%;
+}
+
+#chrome1{
+    text-align: center;
+    margin: auto;
+    padding: 10px 10px;
+    background-color: aliceblue;
+    height: 200px;
+    width: 370px;
+}
+#btn2{
+    color: white;
+    background-color: green;
+    height: 40px;
+    width: 150px;
+}
+#contai button {
+    color: white;
+    background-color: green;
+    height: 40px;
+    width: 150px;
+}
